@@ -1,0 +1,20 @@
+
+<input type="text" placeholder="Id" [(ngModel)]="id"><br>
+<input type="text" placeholder="productName" [(ngModel)]="name"><br>
+<input type="text" placeholder="productBrand" [(ngModel)]="brand"><br>
+<input type="text" placeholder="productPrice" [(ngModel)]="price"><br>
+
+
+<button (click)="getAllProduct()" class="btn btn-primary">get</button><br>
+<button (click)="addTheProduct()" class="btn btn-primary">add</button><br>
+<button (click)="updateTheProduct()" class="btn btn-primary">update</button><br>
+<button (click)="deleteTheProduct()" class="btn btn-primary">delete</button>
+
+
+    <tr *ngFor="let details of products;index as i">
+       <td> {{i+1}}</td>
+         <td>{{details.productsName}}</td>
+        <td>{{details.productsBrand}}</td>
+      <td>{{details.productsPrice}}</td>
+  </tr>
+

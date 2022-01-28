@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "icecream",
+      "productBrand": "ibaco",
+      "prodcutPrice": "150"
+    },
+    {
+      "id": 2,
+      "productName": "chacolate",
+      "productBrand": "oreao",
+      "prodcutPrice": "1000"
+    },
+    {
+      "id": 3,
+      "productName": "bingo",
+      "productBrand": "lays",
+      "prodcutPrice": "50"
+    },
+    {
+      "id": 4,
+      "productName": "noodles",
+      "productBrand": "street",
+      "prodcutPrice": "200"
+    },
+    {
+      "id": 5,
+      "productName": "choco",
+      "productBrand": "sudha",
+      "productPrice": "10000"
+    },
+    {
+      "id": "I_Oksoz"
+    },
+    {
+      "id": "XcybVed"
+    },
+    {
+      "id": "jdBAmTl"
+    },
+    {
+      "id": "JsPPX59"
+    },
+    {
+      "id": "ykjl9Cj"
+    },
+    {
+      "id": "QqUSuAC"
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    }
+  ]
+}
